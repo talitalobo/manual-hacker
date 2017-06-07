@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Zach Holman
-url: https://hackfestcc.github.io/manual-hacker
+name: Manual do Hackfest
+url: https://hackfestcc.github.io/manual-hacker/
 description: Manual do Hackfest contra Corrupção.
 twitter: hackfestbrasil
