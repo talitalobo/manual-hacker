@@ -4,10 +4,8 @@ title: Sugestões para a 2a fase
 category: posts
 ---
 
-Sugestões para as equipes na 2a fase
+Algumas sugestões de gerência dos projetos na 2a fase
 ---
-
-Algumas sugestões de gerência dos projetos:
 
 *Definição o quanto antes a arquitetura em que o projeto operará quando finalizado:* O projeto precisará de servidor(es) para hospedar alguma parte da aplicação? Servidor de BD? Caso o projeto envolva um app, precisará de licença para publicar o app em uma app store? Quais? A sugestão é de novo
 
