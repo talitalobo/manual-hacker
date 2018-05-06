@@ -1,0 +1,13 @@
+---
+layout: post
+title: Como me conectar?
+category: posts
+draft: true
+---
+
+wi-fi
+---
+
+A rede **eduroam** funciona com as suas credenciais da universidade, se você veio de uma universidade que usa eduroam.
+
+Se não, a rede é a **xxx**. A senha é **yyy**.

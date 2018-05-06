@@ -4,7 +4,7 @@ markdown: kramdown
 gems:
   - jekyll-sitemap
 
-name: Manual do Hackfest
-url: https://hackfestcc.github.io/manual-hacker
-description: Manual do Hackfest contra Corrupção.
-twitter: hackfestbrasil
+name: Manual do Hackathon
+url: https://hackathon-sbrc2018.github.io/manual-hacker
+description: Manual do Hackathon SBRC 2018
+twitter: sbrc2018

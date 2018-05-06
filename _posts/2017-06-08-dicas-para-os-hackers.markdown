@@ -2,18 +2,11 @@
 layout: post
 title: Instruções fundamentais
 category: posts
+draft: true
 ---
 
 ## Equipamento
 Você precisará trazer o que for usar. Sugerimos que você traga um laptop. Temos wi-fi, água, café, isso tudo, mas o laptop não.
-
-## O espaço
-Temos uma nave incrível onde hackearemos juntos esse fim de semana. Mas como somos cerca de 200 pessoas dividindo um espaço, convém combinarmos algumas regras:
-
-* *Não deixe bagunça na sua mesa, cadeira, ou por onde passar*. Duzentas pessoas acumulando bagunça é muita bagunça.
-
-* *Ajude na limpeza* e na arrumação. Viu algo que precisa ser apanhado? Ajude. Sujou algo? Já sabe :)
-
 
 ## Segurança
 *Você precisa cuidar de seu equipamento durante o evento*. Atenção com laptops, celulares, fones de ouvido, mouses e o que mais você trouxer. Para evitar Se vai sair de perto de um deles, combine com um colega que possa ficar de olho ou leve com você.

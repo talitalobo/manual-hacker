@@ -1,0 +1,26 @@
+---
+layout: post
+title: FAQ
+category: posts
+---
+
+* *Não entendo muito de IoT, e...*  
+   Nem precisa continuar: não tem problema algum. O hackathon é para aprendermos juntos, mão na massa. Só precisamos de curiosidade e disposição suas. Inclusive, no início do evento, faremos um nivelamento teórico e prático, e teremos coaches no evento para tirar dúvidas e explicar o que for necessário.
+
+* *Não conheço ninguém, como formarei uma equipe?*
+  Faremos isso junto e na hora, em torno de afinidade pelos projetos que gostaríamos de desenvolver. Não precisa vir com equipe formada, e criar projetos é inclusive uma ótima oportunidade para conhecer novas pessoas :).
+
+ * *A equipe pode ter...*  
+   3 ou 4 pessoas. Não pode 2 nem 5. Assim conseguimos um bom número de equipes e evitamos que alguém não se integre a nenhuma.
+
+* *O que são coaches?*  
+    Pessoas experientes em IoT que estarão à disposição para ajudar as equipes.
+
+* *Vi uma lista de sensores e fontes de dados que vocês organizaram. Meu projeto tem que usar uma delas?*  
+    Não. Os projetos podem usar um daqueles sensores ou fontes de dados, outros, ou nenhum. Vocês que sabem.
+
+* *Tenho obrigação de seguir as sugestões dos coaches?*  
+    Não. Tudo que eles sugerirem são sugestões; as decisões de projeto continuam sendo responsabilidade das equipes.
+
+* *Há uma infraestrutura disponível para hospedar os projetos?*  
+    O CPqD gentilmente preparou uma infraestrutura virtualizada para rodar os projetos que utilizarem a plataforma Dojot. Credenciais e instruções serão distribuídas durante o hackathon.
