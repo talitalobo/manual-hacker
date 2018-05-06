@@ -2,7 +2,7 @@
 layout: post
 title: Como me conectar?
 category: posts
-draft: true
+draft: false
 ---
 
 wi-fi
